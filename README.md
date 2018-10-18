@@ -10,6 +10,9 @@ https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6#scroll
 
 http://cs231n.github.io/convolutional-networks/
 
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+
 https://github.com/ml4a/ml4a-guides/blob/master/notebooks/neural-synth.ipynb
 
 [Inceptionism Slide Show](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
