@@ -12,3 +12,4 @@ http://cs231n.github.io/convolutional-networks/
 
 [Inceptionism Slide Show](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
 
+https://vimeo.com/246047871
