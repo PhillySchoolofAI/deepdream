@@ -15,3 +15,5 @@ https://github.com/ml4a/ml4a-guides/blob/master/notebooks/neural-synth.ipynb
 [Inceptionism Slide Show](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
 
 [Play in Beginning Video](https://vimeo.com/246047871)
+
+[CNN Powerpoint](http://www.cs.umd.edu/~djacobs/CMSC733/CNN.pdf)
