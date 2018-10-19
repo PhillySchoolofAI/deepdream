@@ -3,7 +3,6 @@
 
 https://colab.research.google.com/drive/1xeJAhTEwI3TNH_CJnTMq5AJuPkOs8sJ6#scrollTo=e9UmJ09FwpdI&forceEdit=true&offline=true&sandboxMode=true
 
-![alt text]https://github.com/PhillySchoolofAI/deepdream.git/pynchmeister/deepdream/master/img/completed/roadster-completed/Unknown-10.jpg)
 
 
 
