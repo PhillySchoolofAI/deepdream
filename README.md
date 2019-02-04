@@ -13,3 +13,5 @@ http://cs231n.github.io/convolutional-networks/
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 [CNN Powerpoint](https://web.stanford.edu/class/cs231a/lectures/intro_cnn.pdf)
+
+# Write-up coming soon!
