@@ -14,4 +14,8 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 [CNN Powerpoint](https://web.stanford.edu/class/cs231a/lectures/intro_cnn.pdf)
 
+https://www.youtube.com/watch?v=ws-ZbiFV1Ms&index=20&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
+
+
+
 # Write-up coming soon!
