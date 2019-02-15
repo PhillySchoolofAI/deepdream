@@ -16,6 +16,6 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 https://www.youtube.com/watch?v=ws-ZbiFV1Ms&index=20&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
 
-
+https://github.com/google/deepdream/blob/master/dream.ipynb
 
 # Write-up coming soon!
